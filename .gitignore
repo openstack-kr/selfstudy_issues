@@ -18,3 +18,4 @@ build
 dist
 env
 CACHE
+.ipynb_checkpoints
